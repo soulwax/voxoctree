@@ -1,0 +1,11 @@
+name: voxoctree
+description: Pure Dart loose 3D octree, hierarchical 6-plane frustum culling & slab-sorted ray queries.
+version: 0.1.0
+repository: https://github.com/soulwax/voxoctree
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
